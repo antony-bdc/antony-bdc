@@ -18,7 +18,7 @@ This is my homelab as code, plus a few games on the side.
 | [logwarden](https://github.com/antony-bdc/logwarden) | Detects SSH brute force and suspicious logins from system logs |
 | [antonybdc-status](https://github.com/antony-bdc/antonybdc-status) | Self-updating public status page, checked every 10 minutes by GitHub Actions |
 | [ad-onboarding](https://github.com/antony-bdc/ad-onboarding) | PowerShell module for Active Directory onboarding and offboarding |
-| [k3s-homelab](https://github.com/antony-bdc/k3s-homelab) | 3-node Kubernetes lab, with an end-to-end test for zero-downtime updates |
+| [k3s-homelab](https://github.com/antony-bdc/k3s-homelab) | 3-node Kubernetes lab, locally or on Oracle Cloud with Terraform, with an end-to-end test for zero-downtime updates |
 
 #### On the side
 
