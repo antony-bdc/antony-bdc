@@ -24,4 +24,6 @@ This is my homelab as code, plus a few games on the side.
 
 [antony-arcade](https://github.com/antony-bdc/antony-arcade) · browser games, playable without installing anything
 
+[duftfinder](https://github.com/antony-bdc/duftfinder) · find perfumes by occasion, season and notes, and get a daily pick from my own collection
+
 → [antonybdc.me](https://antonybdc.me)
