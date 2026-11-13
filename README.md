@@ -26,4 +26,4 @@ This is my homelab as code, plus a few games on the side.
 
 [duftfinder](https://github.com/antony-bdc/duftfinder) · find perfumes by occasion, season and notes, and get a daily pick from my own collection
 
-→ [antonybdc.me](https://antonybdc.me)
+→ [antonybdc.ch](https://antonybdc.ch)
